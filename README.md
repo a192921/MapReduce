@@ -12,14 +12,14 @@
 ## Mapping
 - 從主節點(master node)輸入一組input，此input是一組key/value，將這組輸入切分成好幾個小的子部分，分散到各個工作節點(worker nodes)去做運算。
 
-![圖片1][1]
+![](https://github.com/a192921/MapReduce/blob/master/%E5%9C%96%E7%89%871.png)
 
 
 
 ## Reducing
 - 主節點(master node)收回處理完的子部分，將子部分重新組合產生輸出。
 
-![圖片2][1]
+![](https://github.com/a192921/MapReduce/blob/master/%E5%9C%96%E7%89%872.png)
 
 
 
@@ -35,7 +35,8 @@
 - 每個檔案被分割成許多block，每個block複製許多複本(replica)，並分散儲存於不同的DataNode上。
 - NameNode：負責維護HDFS的檔案名稱空間 (File System Namespace)。
 - DataNode：實際儲存檔案區塊(Blocks)的伺服器。
-![HDFS][1]
+![](https://github.com/a192921/MapReduce/blob/master/HDFS.jpg)
+
 引用自：http://images.cnblogs.com/cnblogs_com/wayne1017/HDFSArch.JPG
 
 
