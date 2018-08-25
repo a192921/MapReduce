@@ -5,7 +5,7 @@
 
 - MapReduce 是雲端運算的關鍵技術，將要執行的問題，拆解成 Map 和 Reduce 的方式來執行，以達到分散運算的效果。
 
-![MapReduce][1]
+![](https://github.com/a192921/MapReduce/blob/master/MapReduce.jpg)
 
 
 
