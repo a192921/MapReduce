@@ -41,6 +41,6 @@
 
 
 ## 資料來源
-- Jewel，2015年3月12日。大數據、數位學習、雲端運算、      數據、科技、網路、網路技術、雲端運算，認識大數據的黃色小象幫手-Hadoop 。2018年8月25日，取自 https://www.inside.com.tw/2015/03/12/big-data-4-hadoop
+- Jewel，2015年3月12日。大數據、數位學習、雲端運算、      數據、科技、網路、網路技術、雲端運算，認識大數據的黃色小象幫手-Hadoop 。2018年8月25日，取自  https://www.inside.com.tw/2015/03/12/big-data-4-hadoop
 - Wea，2008年9月25日。5. MapReduce, Hadoop。2018年8月25日，取自https://sls.weco.net/CollectiveNote20/MR
-- 顏孜羲，2015年5月19日。MapReduce 簡單介紹與練習。2018年8月26日，取自https://www.slideshare.net/d2207197/mapreduce-48359655
+- 顏孜羲，2015年5月19日。MapReduce 簡單介紹與練習。2018年8月26日，取自  https://www.slideshare.net/d2207197/mapreduce-48359655
